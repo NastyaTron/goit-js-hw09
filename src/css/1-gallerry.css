@@ -15,3 +15,8 @@
 .sl-wrapper {
   background-color: rgba(46, 47, 66, 0.8);
 }
+.sl-wrapper.simple-lightbox .sl-navigation button,
+.sl-wrapper.simple-lightbox .sl-close,
+.sl-wrapper.simple-lightbox .sl-counter {
+  color: #fff;
+}
